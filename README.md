@@ -21,7 +21,7 @@
 - Highly motivated individual Looking to gain entry level opportunities in the tech industry in a role that will allow me to grow and 
 enhance my technical skills further.
 - I am currently working on building my personal portfolio that is hosted on GitHub. I endeavor to continue contributing to projects as much as possible to continue developing my technical skills.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marchopkins96/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marchopkins96/)
 
 
 <!---
