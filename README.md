@@ -15,8 +15,6 @@
 </h1>
 </div>
 
----
-
 ### :man_technologist: About Me : I am a Junior Full Stack Software Developer from Leeds, UK
 - Proficient in HTML, CSS, Javascript & Python.
 - Highly motivated individual Looking to gain entry level opportunities in the tech industry in a role that will allow me to grow and 
