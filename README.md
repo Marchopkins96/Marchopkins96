@@ -37,7 +37,8 @@ enhance my technical skills further.
 
 ![GitHub pages Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Heroku Badge](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+![AWS Badge](https://img.shields.io/badge/https%3A%2F%2Faws.amazon.com%2F%3Fnc2%3Dh_lg)
+
 
 ---
 
