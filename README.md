@@ -48,7 +48,21 @@ enhance my technical skills further.
 
 ## My Portfolio Projects
 
+### Performance Footwear (Merit) - Django and Bootstrap Frameworks - August 2024
 
+Performance Footwear is a website that allows users to purchase sports footwear and related accessories.
+
+<details>
+<summary>Click here to learn more</summary>
+
+Performance Footwear is a full-stack project using Django to build an application with user authentication and plenty of CRUD functionality. Bootstrap framework has been used throughout the site and Agile values and principles have been followed throughout.
+
+[Link to 'Performance Footwear' repository](https://github.com/Marchopkins96/Performance-Footwear)
+
+[Link to 'Performance Footwear' live Page](https://performance-footwear-ed28bb401f1b.herokuapp.com/)
+</details>
+
+<a href="https://github.com/Marchopkins96/Performance-Footwear"><img width="500px" height="300px" src="https://github.com/Marchopkins96/Performance-Footwear/blob/main/documentation/readme_images/responsive.png"></a>
 
 ### :fire: My Stats :
 
