@@ -55,7 +55,7 @@ Performance Footwear is a website that allows users to purchase sports footwear 
 <details>
 <summary>Click here to learn more</summary>
 
-Performance Footwear is a full-stack project using Django to build an application with user authentication and plenty of CRUD functionality. Bootstrap framework has been used throughout the site and Agile values and principles have been followed throughout.
+Performance Footwear is a full-stack project using Django to build an application with user authentication and plenty of CRUD functionality. Bootstrap framework has been used throughout the site and Agile values and principles have been followed throughout. Stripe API has been used to make dummy payments for users. Users are notified by email once an order has been proccessed.
 
 [Link to 'Performance Footwear' repository](https://github.com/Marchopkins96/Performance-Footwear)
 
@@ -63,6 +63,22 @@ Performance Footwear is a full-stack project using Django to build an applicatio
 </details>
 
 <a href="https://github.com/Marchopkins96/Performance-Footwear"><img width="500px" height="300px" src="https://github.com/Marchopkins96/Performance-Footwear/blob/main/documentation/readme_images/responsive.png"></a>
+
+### Oasis Hotels (Merit) - Django - May 2024 
+
+Oasis Hotels is a platform for users to explore and book a range of hotel stays.
+
+<details>
+<summary>Click here to learn more</summary>
+
+This is a Full Stack Project made using Django which features user authentication with other CRUD functionality featured. Agile values & principles have been adhered to throughout.
+
+[Link to 'Oasis Hotels' repository](https://github.com/Marchopkins96/oasis-hotels)
+
+[Link to 'Oasis Hotels' live page](https://oasis-hotels-a4728551ae39.herokuapp.com/)
+</details>
+
+<a href="https://github.com/Marchopkins96/oasis-hotels"><img width="500px" height="300px" src="https://github.com/Marchopkins96/oasis-hotels/blob/main/documentation/readme_images/i-am-responsive.png"></a>
 
 ### :fire: My Stats :
 
