@@ -79,7 +79,7 @@ This is a Full Stack Project made using Django which features user authenticatio
 
 <a href="https://github.com/Marchopkins96/oasis-hotels"><img width="500px" height="300px" src="https://github.com/Marchopkins96/oasis-hotels/blob/main/documentation/readme_images/i-am-responsive.png"></a>
 
-### Hangman Game (Pass) - Python - December 2024 
+### Hangman Game (Pass) - Python - December 2023
 
 Hangman Game is a command line game where the user plays against the computer program to try and guess a random word within a certain amount of guesses. If they run out of guesses its game over.
 
@@ -94,6 +94,23 @@ In this version of the game a user is prompted to enter their game name, once th
 </details>
 
 <a href="https://github.com/Marchopkins96/hangman-game"><img width="500px" height="300px" src="https://github.com/Marchopkins96/hangman-game/blob/main/docs/iamresponsive.png"></a>
+
+### Sports Quiz (Merit) - JavaScript, HTML, CSS - November 2023
+
+Sports Quiz is a sports quiz with three different sets of questions for users to put their sports knowledge to the test.
+
+<details>
+<summary>Click here to learn more</summary>
+
+Sports Quiz is a multiple choice online quiz testing the sports knowledge of the users who play it. There are three levels to choose from. The user will see how many questions are left as they progress and how many they answer correctly and incorrectly.
+Vanilla JavaScript combined with CSS were used to create the interactivity of the quiz.
+
+[Link to 'Sports Quiz' repository](https://github.com/Marchopkins96/sports-quiz)
+
+[Link to 'Sports Quiz' live page](https://marchopkins96.github.io/sports-quiz/)
+</details>
+
+<a href="https://github.com/Marchopkins96/sports-quiz"><img width="500px" height="300px" src="https://github.com/Marchopkins96/sports-quiz/blob/main/docs/iamresponsive.png"></a>
 
 ### :fire: My Stats :
 
