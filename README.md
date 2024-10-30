@@ -80,6 +80,22 @@ This is a Full Stack Project made using Django which features user authenticatio
 
 <a href="https://github.com/Marchopkins96/oasis-hotels"><img width="500px" height="300px" src="https://github.com/Marchopkins96/oasis-hotels/blob/main/documentation/readme_images/i-am-responsive.png"></a>
 
+### Hangman Game (Pass) - Python - December 2024 
+
+Hangman Game is a command line game where the user plays against the computer program to try and guess a random word within a certain amount of guesses. If they run out of guesses its game over.
+
+<details>
+<summary>Click here to learn more</summary>
+
+In this version of the game a user is prompted to enter their game name, once they have done this a short instruction list will display before then being asked to input a guess. The random word will be displayed as some letters and dashes (w_r_). If the user guesses correct a dash will be replaced with a letter and if a wrong letter is chosen more parts of the hangman image will display.
+
+[Link to 'Hangman Game' repository](https://github.com/Marchopkins96/hangman-game)
+
+[Link to 'Hangman Game' live page](https://hangman-game-tuti.onrender.com/)
+</details>
+
+<a href="https://github.com/Marchopkins96/hangman-game"><img width="500px" height="300px" src="https://github.com/Marchopkins96/hangman-game/blob/main/docs/iamresponsive.png"></a>
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marchopkins96&theme=dark&background=000000)](https://git.io/streak-stats)
