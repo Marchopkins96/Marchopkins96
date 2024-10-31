@@ -4,9 +4,9 @@
 
 ### :man_technologist: About Me : I am a Junior Full Stack Software Developer from Leeds, UK
 - Proficient in HTML, CSS, Javascript & Python.
-- Highly motivated individual Looking to gain entry level opportunities in the tech industry in a role that will allow me to grow and 
+- Highly motivated individual Looking to gain entry level opportunities in the technology industry in a role that will allow me to grow and 
 enhance my technical skills further.
-- I am currently working on building my personal portfolio that is hosted on GitHub. I endeavor to continue contributing to projects as much as possible to continue developing my technical skills.
+- I am currently working on building my personal portfolio that is hosted on GitHub. I endeavor to continue contributing to projects as much as possible to continue developing my skillset.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marchopkins96/)
 
 ---
@@ -111,6 +111,22 @@ Vanilla JavaScript combined with CSS were used to create the interactivity of th
 </details>
 
 <a href="https://github.com/Marchopkins96/sports-quiz"><img width="500px" height="300px" src="https://github.com/Marchopkins96/sports-quiz/blob/main/docs/iamresponsive.png"></a>
+
+### Soccer School (Merit) - HTML, CSS - September 2023
+
+Soccer School is a football camp based at York College, England, The football camps are for children aged between 6 - 13 years old. The site is targeted at parents of children who may want to improve their footballing abilities in a fun and engaging environment.
+
+<details>
+<summary>Click here to learn more</summary>
+
+High quality images throughout bring the page to life, Featuring a bold hero image and a gallery of previous Soccer School events. The site also features a map of the location where the events take place. The website is responsive across a range of devices, easy to navigate and aids accessibility for all.
+
+[Link to 'Soccer School' repository](https://github.com/Marchopkins96/soccer-school)
+
+[Link to 'Soccer School' live page](https://marchopkins96.github.io/soccer-school/index.html)
+</details>
+
+<a href="https://github.com/Marchopkins96/soccer-school"><img width="500px" height="300px" src="https://github.com/Marchopkins96/soccer-school/blob/main/documents/i-am-responsive.png"></a>
 
 ### :fire: My Stats :
 
